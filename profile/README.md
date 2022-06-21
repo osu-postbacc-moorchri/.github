@@ -11,3 +11,6 @@ Winter 2021
 2022 Spring
 * 261 - Data Structures
 * 290 - Web Development
+
+2022 Summer
+* 340 - Databases
